@@ -1,0 +1,8 @@
+C:\Users\mhgir\source\repos\Academia .NET\Academia .NET\bin\Debug\Academia.NET.exe.config
+C:\Users\mhgir\source\repos\Academia .NET\Academia .NET\bin\Debug\Academia.NET.exe
+C:\Users\mhgir\source\repos\Academia .NET\Academia .NET\bin\Debug\Academia.NET.pdb
+C:\Users\mhgir\source\repos\Academia .NET\Academia .NET\obj\Debug\Academia .NET.csproj.AssemblyReference.cache
+C:\Users\mhgir\source\repos\Academia .NET\Academia .NET\obj\Debug\Academia .NET.csproj.SuggestedBindingRedirects.cache
+C:\Users\mhgir\source\repos\Academia .NET\Academia .NET\obj\Debug\Academia .NET.csproj.CoreCompileInputs.cache
+C:\Users\mhgir\source\repos\Academia .NET\Academia .NET\obj\Debug\Academia.NET.exe
+C:\Users\mhgir\source\repos\Academia .NET\Academia .NET\obj\Debug\Academia.NET.pdb
