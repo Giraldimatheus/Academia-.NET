@@ -1,0 +1,8 @@
+C:\Users\mhgir\source\repos\Academia .NET\Exercicios aula 05\bin\Debug\Exercicios aula 05.exe.config
+C:\Users\mhgir\source\repos\Academia .NET\Exercicios aula 05\bin\Debug\Exercicios aula 05.exe
+C:\Users\mhgir\source\repos\Academia .NET\Exercicios aula 05\bin\Debug\Exercicios aula 05.pdb
+C:\Users\mhgir\source\repos\Academia .NET\Exercicios aula 05\obj\Debug\Exercicios aula 05.csproj.AssemblyReference.cache
+C:\Users\mhgir\source\repos\Academia .NET\Exercicios aula 05\obj\Debug\Exercicios aula 05.csproj.SuggestedBindingRedirects.cache
+C:\Users\mhgir\source\repos\Academia .NET\Exercicios aula 05\obj\Debug\Exercicios aula 05.csproj.CoreCompileInputs.cache
+C:\Users\mhgir\source\repos\Academia .NET\Exercicios aula 05\obj\Debug\Exercicios aula 05.exe
+C:\Users\mhgir\source\repos\Academia .NET\Exercicios aula 05\obj\Debug\Exercicios aula 05.pdb

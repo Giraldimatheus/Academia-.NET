@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -147,8 +148,115 @@ namespace Exercicios_aula_04
 
             // EXERCICIO 13
 
+            /*double altura;
+            string genero;
+            double pesoIdeal;
+            string nome;
 
+            Console.WriteLine("Qual seu nome? ");
+            nome = Console.ReadLine();
+            Console.WriteLine("Qual seu genêro? Masculino ou Feminino.");
+            genero = Console.ReadLine().ToLower();
+            Console.WriteLine("Qual sua altura?");
+            altura = double.Parse(Console.ReadLine());
 
+            if ( genero == "masculino")
+            {
+                pesoIdeal = (72.7 * altura) - 58;
+                Console.WriteLine($"Olá {nome}, seu peso ideal é de: {pesoIdeal:F2} Kilos, obrigado!");
+            }
+            else if (genero == "feminino")
+            {
+                pesoIdeal = (62.1 * altura) - 44.7;
+                Console.WriteLine($"Olá {nome}, seu peso ideal é de: {pesoIdeal:F2} Kilos, obrigado!");
+            }
+            else
+            {
+                Console.WriteLine("Por favor, informe apenas se o genêro é Masculino ou Feminino.");
+            }*/
+
+            //--------------------------------------------------------------------------------------------------------
+
+            // EXERCICIO 14
+
+            /*double tamanhoArquivo;
+            double velocidadeNet;
+            double download;
+            
+
+            Console.WriteLine("Qual o tamanho do arquivo para Download? Em MB");
+            tamanhoArquivo = double.Parse(Console.ReadLine());
+            Console.WriteLine("Qual a velocidade da sua Internet? Em Mbps");
+            velocidadeNet= double.Parse(Console.ReadLine());
+
+            
+            download = (tamanhoArquivo * 8) / velocidadeNet;
+            double minutos = download / 60;
+            Console.WriteLine($"O tempo de download foi de: {minutos:F2} minutos.");
+            
+            Console.ReadLine();*/
+
+            //--------------------------------------------------------------------------------------------------------
+
+            // EXERCICIO 15
+
+            /*double area, qtde, vtotal, qtdeLatas, qtdeLatasCeilling, qtdeLatasFloor;
+
+            Console.WriteLine("Digite a área a ser pintada?");
+            area = double.Parse(Console.ReadLine());
+
+            qtde = area / 3;
+            qtdeLatas = qtde / 18;
+
+            qtdeLatasCeilling = Math.Ceiling(qtdeLatas);
+
+            qtdeLatasFloor = Math.Floor(qtdeLatas);
+
+            Console.WriteLine($"A area de {area} precisará de {qtde} litros de tinta");
+            Console.WriteLine($"Será necessario comprar {qtdeLatasCeilling} latas de tinta - Ceilling");
+            Console.WriteLine($"Será necessario comprar {qtdeLatasFloor} latas de tinta - Floor");
+            Console.WriteLine($"Será necessario comprar {qtdeLatas} latas de tinta");
+            vtotal = qtdeLatasCeilling * 80;
+            Console.WriteLine("Custará " + vtotal);
+
+            Console.ReadLine();*/
+
+            //--------------------------------------------------------------------------------------------------------
+
+            // EXERCICIO 16
+
+            int timeCasa;
+            int timeFora;
+
+            Console.WriteLine("Quantos gols fez o time da casa? ");
+            timeCasa = int.Parse(Console.ReadLine());
+            Console.WriteLine("Qauntos gols fez o time de fora? ");
+            timeFora = int.Parse(Console.ReadLine());
+
+            if(timeCasa - timeFora > 2)
+            {
+                Console.WriteLine("O time de casa se classificou");
+            }
+            if (timeCasa - timeFora == 1)
+            {
+                Console.WriteLine("Haverá um novo jogo! ");
+            }
+            if(timeFora - timeCasa > 2)
+            {
+                Console.WriteLine("O time de fora se classificou");
+            }
+            if (timeFora - timeCasa == 1)
+            {
+                Console.WriteLine("Haverá um novo jogo");
+            }
+            else
+            {
+                Console.WriteLine("Empate, haverá um novo jogo! ");
+            }
+
+            Console.ReadLine();
         }
     }
 }
+    
+
