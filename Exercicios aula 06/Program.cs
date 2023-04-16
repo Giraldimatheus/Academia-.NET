@@ -467,7 +467,7 @@ namespace Exercicio_aula_06
 
             // EXERCICIO 10
 
-            string nome;
+            /*string nome;
             string genero;
             int idade;
             int idademenor = 0;
@@ -524,7 +524,14 @@ namespace Exercicio_aula_06
             Console.WriteLine("A quantidade de pessoas com menos de 30 anos foi de " + idademenor + " pessoas");
             Console.WriteLine("A quantidade de pessoas com mais de 60 anos foi de " + idademaior + " pessoas");
 
-            Console.ReadLine();
+            Console.ReadLine();*/
+
+            //--------------------------------------------------------------------------------------------------------
+
+            // EXERCICIO 11
+
+
+
 
         }
 
